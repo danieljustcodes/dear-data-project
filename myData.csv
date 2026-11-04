@@ -1,31 +1,31 @@
 ID,Date,Class,Class Type,Scheduled Start,Joined/Arrived,Minutes Early/Late,Main Reason,Readiness (1-5),Mood,Notes
-1,12/10/2026,Mon,IN1004,Physical ,09:00am,9:06,-6,Sleep,2,
-2,12/10/2026,Mon,IN1004,Physical ,12:00pm,12:09,-9,Eating,3,
-3,12/10/2026,Mon,IN1007,Physical ,3:00pm,3:10,-10,Procrastination,4,
-4,13/10/2026,Tue,IN1007,Physical ,09:00an,9:23,-23,Sleep,3,
-5,13/10/2026,Tue,IN1007,Physical ,10:00am,10:00,9,Previous class,5,
-6,13/10/2026,Tue,IN1007,Physical ,12:00pm,12:09,-9,Travel,4,
-7,13/10/2026,Tue,IN1007,Physical ,3:00pm,3:12,-12,Eating,3,
-8,14/10/2026,Wed,CG0005,Online,11:00pm,10:55,5,Preparation,5,
-9,15/10/2026,Thurs,IN1007,Physical ,1:00pm,1:18,-18,Eating,5,
-10,15/10/2026,Thurs,IN1007,Physical ,2:00pm,1:58,2,Previous class,5,
-11,16/10/2026,Fri,IN1007,Physical ,10:00am,10:19,-19,Sleep,2,
-12,16/10/2026,Fri,IN1007,Physical ,2:00pm,2:06,-6,Travel,4,
-13,19/10/2026,Mon,IN1004,Physical ,09:00am,null,null,null,0,
-14,19/10/2026,Mon,IN1004,Physical ,12:00pm,12:05,-5,Preparation,2,
-15,19/10/2026,Mon,IN1007,Physical ,3:00pm,3:23,-23,Eating,5,
-16,20/10/2026,Tue,IN1013,Physical ,09:00am,9:12,-12,Procrastination,3,
-17,20/10/2026,Tue,IN1013,Physical ,12:00pm,12:16,-16,Eating,5,
-18,21/10/2026,Wed,CG0005,Online,11:00am,11:03,-3,Preparation,5,
-19,22/10/2026,Thurs,IN1006,Online,10:00am,10:00,0,Sleep,5,
-20,23/10/2026,Fri,IN1007,Physical ,10:00am,10:04,-4,Travel,3,
-21,23/10/2026,Fri,IN1006,Physical ,2:00pm,2:15,-15,Eating,4,
-22,26/10/2026,Mon,IN1004,Physical ,09:00am,9:05,-5,Travel,3,
-23,26/10/2026,Mon,IN1004,Physical ,12:00pm,11:56,6,Preparation,5,
-24,26/10/2026,Mon,IN1007,Physical ,3:00pm,3:12,-12,Eating,3,
-25,27/10/2026,Tue,IN1013,Physical ,09:00am,9:17,-17,Sleep,2,
-26,27/10/2026,Tue,IN1013,Physical ,12:00pm,11:53,7,Previous Class,5,
-27,28/10/2026,Wed,CG0005,Online,11:00am,11:00,0,Preparation,4,
-28,29/10/2026,Thurs,IN1006,Online,10:00am,9:59,1,Sleep,5,
-29,30/10/2026,Fri,IN1007,Physical ,10:00am,10:04,-4,Travel,4,
-30,30/10/2026,Fri,IN1006,Physical ,2:00pm,2:09,-9,Eating,5,
+1,12/10/2026,Mon,IN1004,Physical ,09:00am,9:06,-6,Sleep,Very Tired,Slept late and woke up late
+2,12/10/2026,Mon,IN1004,Physical ,12:00pm,12:09,-9,Eating,Light Tiredness,Finished eating late
+3,12/10/2026,Mon,IN1007,Physical ,3:00pm,3:10,-10,Procrastination,Enthusiastic,Energetic and satiated
+4,13/10/2026,Tue,IN1007,Physical ,09:00an,9:23,-23,Sleep,Slightly tired,Woke up late then wasted time
+5,13/10/2026,Tue,IN1007,Physical ,10:00am,10:00,9,Previous class,Curious,"Stayed PC, Forgot to check in on seats"
+6,13/10/2026,Tue,IN1007,Physical ,12:00pm,12:09,-9,Travel,Engaged,Started walking to class late
+7,13/10/2026,Tue,IN1007,Physical ,3:00pm,3:12,-12,Eating,Exhausted,Finished eating late
+8,14/10/2026,Wed,CG0005,Online,11:00pm,10:55,5,Preparation,Intrigued,"Prepared for meeting, Forgot to check in on seats"
+9,15/10/2026,Thurs,IN1007,Physical ,1:00pm,1:18,-18,Eating,Happy,Finished eating on time
+10,15/10/2026,Thurs,IN1007,Physical ,2:00pm,1:58,2,Previous class,Happy,Stayed from the previous class
+11,16/10/2026,Fri,IN1007,Physical ,10:00am,10:19,-19,Sleep,Very Tired,"Slept late and woke up late, got ready late"
+12,16/10/2026,Fri,IN1007,Physical ,2:00pm,2:06,-6,Travel,Engaged,Walked to school using the longer route
+13,19/10/2026,Mon,IN1004,Physical ,09:00am,null,null,null,null,Missed because I overslept
+14,19/10/2026,Mon,IN1004,Physical ,12:00pm,12:05,-5,Preparation,Curious,Missed first lecture so wasn't prepared
+15,19/10/2026,Mon,IN1007,Physical ,3:00pm,3:23,-23,Eating,Engaged,Order came late so finished eating late
+16,20/10/2026,Tue,IN1013,Physical ,09:00am,9:12,-12,Procrastination,Slightly tired,I delayed my alarm so I woke up later than expected
+17,20/10/2026,Tue,IN1013,Physical ,12:00pm,12:16,-16,Eating,Ready,I finished eating late
+18,21/10/2026,Wed,CG0005,Online,11:00am,11:03,-3,Preparation,Curious,It took some time setting up the meeting/call
+19,22/10/2026,Thurs,IN1006,Online,10:00am,10:00,0,Sleep,Engaged,Slept well and woke up early
+20,23/10/2026,Fri,IN1007,Physical ,10:00am,10:04,-4,Travel,Uncertain,Took some time finding the classroom
+21,23/10/2026,Fri,IN1006,Physical ,2:00pm,2:15,-15,Eating,Curious,Finished eating late
+22,26/10/2026,Mon,IN1004,Physical ,09:00am,9:05,-5,Travel,Slightly tired,Took some time walking
+23,26/10/2026,Mon,IN1004,Physical ,12:00pm,11:56,6,Preparation,Enthusiastic,Prepared properly ahead of time
+24,26/10/2026,Mon,IN1007,Physical ,3:00pm,3:12,-12,Eating,Exhausted,Finished eating late
+25,27/10/2026,Tue,IN1013,Physical ,09:00am,9:17,-17,Sleep,Very Tired,Slept late and woke up late
+26,27/10/2026,Tue,IN1013,Physical ,12:00pm,11:53,7,Previous Class,Curious,Stayed from the previous class. Forgot to check in
+27,28/10/2026,Wed,CG0005,Online,11:00am,11:00,0,Preparation,Bored,Prepared efficiently
+28,29/10/2026,Thurs,IN1006,Online,10:00am,9:59,1,Sleep,Engaged,Slept well and woke up early
+29,30/10/2026,Fri,IN1007,Physical ,10:00am,10:04,-4,Travel,Bored,Walked to school using the longer route
+30,30/10/2026,Fri,IN1006,Physical ,2:00pm,2:09,-9,Eating,Enthusiastic,Finished eating late
